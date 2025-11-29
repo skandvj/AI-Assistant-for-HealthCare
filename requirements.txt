@@ -1,0 +1,29 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# LangChain & LangGraph
+langchain>=0.1.0
+langchain-core>=0.1.10
+langchain-community>=0.0.10
+langgraph>=0.0.20
+langchain-openai>=0.0.2
+langchain-google-genai>=0.0.5
+
+# LLM Providers (Free Tier Options)
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# Database
+aiofiles>=23.2.0
+
+# Utilities
+python-dateutil>=2.8.0
+python-dotenv>=1.0.0
+typing-extensions>=4.8.0
+
+# CORS for frontend
+python-multipart>=0.0.6
+
