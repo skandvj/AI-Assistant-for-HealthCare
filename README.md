@@ -12,6 +12,8 @@ This project follows **Clean Architecture** and **SOLID principles** for maximum
 ├── infrastructure/   # External integrations (LLM, database)
 └── presentation/     # API and frontend
 ```
+![Architecture](data/Architecture.png)
+
 
 ### Key Technologies
 
